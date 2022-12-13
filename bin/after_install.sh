@@ -3,7 +3,7 @@ set -e
 
 echo "START after_install"
 
-cd /home/ec2-user/app
+cd /home/admin/app
 npm install
 
 echo "END after_install"
