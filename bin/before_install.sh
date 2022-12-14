@@ -18,7 +18,7 @@ nvm use 14.15.4
 
 apt -y install nc
 
-apt install nginx -y
+#apt install nginx -y
 
 curl –sL https://deb.nodesource.com/setup_14.x | sudo bash -
 apt -y install nodejs
