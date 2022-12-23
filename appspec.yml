@@ -20,7 +20,7 @@ hooks:
   BeforeInstall:
     - location: bin/before_install.sh
       timeout: 300
-      runas: root
+      runas: admin
 
   AfterInstall:
     - location: bin/after_install.sh
