@@ -16,7 +16,7 @@ export NVM_DIR="$HOME/.nvm"
 nvm install 14.15.4
 nvm use 14.15.4
 
-apt -y install nc
+apt -y install netcat
 
 #apt install nginx -y
 
